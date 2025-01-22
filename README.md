@@ -1,2 +1,2 @@
-# quantum
-Solutions in Quantum Computing
+# Quantum Solutions
+## Using Python, Jupyter Lab, and IBM Qiskit
